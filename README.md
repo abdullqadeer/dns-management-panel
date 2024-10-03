@@ -5,7 +5,7 @@ A DNS Hosting Control Panel designed to mitigate delays caused by TLD root serve
 
 ## Features
 - User registration and authentication
-- Easy DNS record management
+- Easy DNS record management and least TTL, so new changes update immediately from the server side.
 - Fast DNS updates to prevent expired TXT verification records
 - User-friendly interface built with Tailwind CSS
 
