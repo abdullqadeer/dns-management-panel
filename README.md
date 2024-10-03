@@ -45,7 +45,7 @@ We welcome contributions! Please follow these steps:
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
 
 ## Contact
-For any inquiries or feedback, please reach out to [your email or contact information].
+For any inquiries or feedback, please reach out to [Linkedin](https://www.linkedin.com/in/aqadeer5511/).
 
 ### Instructions
 - Replace `yourusername` in the clone command with your actual GitHub username.
