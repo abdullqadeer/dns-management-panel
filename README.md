@@ -19,7 +19,7 @@ A DNS Hosting Control Panel designed to mitigate delays caused by TLD root serve
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/dns-hosting-control-panel.git
+   git clone https://github.com/abdullqadeer/dns-hosting-control-panel.git
    ```
 2. Navigate to the project directory:
    ```bash
@@ -46,10 +46,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 For any inquiries or feedback, please reach out to [Linkedin](https://www.linkedin.com/in/aqadeer5511/).
-
-### Instructions
-- Replace `yourusername` in the clone command with your actual GitHub username.
-- Update the "Contact" section with your preferred contact information.
-- You can expand or modify sections as your project evolves and additional features are implemented.
-
-Feel free to customize it further to suit your project's needs!
